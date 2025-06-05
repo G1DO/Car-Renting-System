@@ -38,7 +38,7 @@ A C# Windows Forms application for managing a car‐rental workflow, backed by a
 
 ## Technologies  
 - **C# Windows Forms** (.NET 6.0 or later)  
-- **Visual Studio 2022** (or newer)  
+- **Visual Studio 2019** (Must)  
 - **Oracle Database** (SQL Developer for DDL/DML)  
 - **Crystal Reports** (reporting engine, if applicable)  
 - **Git & GitHub** (version control)
