@@ -16,9 +16,8 @@ A C# Windows Forms application for managing a car‑rental workflow, backed by a
 2. [Technologies](#technologies)
 3. [Folder Structure](#folder-structure)
 4. [Database Setup](#database-setup)
-5. [Running the Application](#running-the-application)
-6. [Documentation](#documentation)
-7. [Contact](#contact)
+5. [Documentation](#documentation)
+6. [Contact](#contact)
 
 ---
 
