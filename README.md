@@ -1,7 +1,6 @@
 # Car Renting System
 
 **Team ID:** 22
-
 **TA:** Alaa Khaled
 
 ---
