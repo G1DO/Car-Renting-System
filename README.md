@@ -124,11 +124,5 @@ Car-Renting-System
   * Crystal Reports examples (grouped columns, summary fields, parameters).
   * GUI screenshots and navigation.
 
----
 
-## Contact
-
-If you have questions or need assistance, contact:
-
-* **Your Name** ‹[ibrahimmohamedabdelsadek@gmail.com)›
 
